@@ -4,7 +4,7 @@ Aprenda do zero Web Design e comece a sua carreira de UX / UI Designer e Desenvo
 
 ## Exercício Prático
 ### #1 UI DESIGN
-🔗 Link:
+🔗 Link: [Aqui](https://github.com/suamirocha/origamid/tree/main/UiDesignParaIniciantes/02_Ferramentas)
 ![](https://cdn.discordapp.com/attachments/1045720339772088342/1071502880432992306/Ex1_Figma_Origamid.png)
 
 ![](https://cdn.discordapp.com/attachments/1045720339772088342/1071502879485079744/Ex1_Figma_Origamid_page_2.png)
